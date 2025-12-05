@@ -4,8 +4,6 @@ This is my first hands-on project using the Django web framework. It demonstrate
 
 ---
 
----
-
 🚀 Features
 
 - Django project setup and configuration  
