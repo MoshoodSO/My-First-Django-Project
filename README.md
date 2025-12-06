@@ -12,7 +12,9 @@ This is my first hands-on project using the Django web framework. It demonstrate
 - Basic understanding of models and database setup  
 - Admin interface setup and usage
 
-🛠️ Technologies Used
+--
+
+## 🛠️ Technologies Used
 
 - Python 3.x  
 - Django  
