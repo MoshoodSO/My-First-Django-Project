@@ -11,3 +11,12 @@ This is my first hands-on project using the Django web framework. It demonstrate
 - Use of templates for dynamic HTML rendering  
 - Basic understanding of models and database setup  
 - Admin interface setup and usage
+
+🛠️ Technologies Used
+
+- Python 3.x  
+- Django  
+- HTML & CSS  
+- SQLite (default Django DB)
+
+---
