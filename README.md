@@ -22,3 +22,5 @@ This is my first hands-on project using the Django web framework. It demonstrate
 - SQLite (default Django DB)
 
 ---
+
+## How to use
